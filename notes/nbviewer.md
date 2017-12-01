@@ -1,4 +1,4 @@
-[back](README.md)  
+[back](../README.md)  
 # nbviewer
 nbviewer shows cached version of github file  
 e.g. when the file at  
