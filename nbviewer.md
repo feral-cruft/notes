@@ -1,4 +1,18 @@
-#### nbviewer sometimes shows old version of file
+(#some-markdown-heading) so your link should look like so:
+
+[create an anchor](#anchors-in-markdown)
+
+
+
+[nbviewer-sometimes-shows-old-version-of-file](#nbviewer-sometimes-shows-old-version-of-file)
+
+
+
+
+
+
+
+#### (#nbviewer-sometimes-shows-old-version-of-file)
 e.g. when the file at  
 https://github.com/cruft-ninja/feral-jupyter/blob/master/reading-list.ipynb  
 is viewed at  
