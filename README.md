@@ -9,7 +9,7 @@
 ### cli snippets  
 *****  
 #### view Chromium Bookmarks in json format
-less ~/.config/google-chrome-beta/Default/Bookmarks  
+less ~/.config/chromium/Default/Bookmarks  
 
 *****  
   
