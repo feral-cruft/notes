@@ -1,4 +1,4 @@
-[back](README.md)  
+[back](../README.md)  
 # cli snippets  
 *****  
 #### view Chromium Bookmarks in json format  
