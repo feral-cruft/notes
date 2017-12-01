@@ -45,13 +45,6 @@ spacefillers required to test internal linking
   
 *****  
 *****  
-  
-*****  
-[fdsgagfasdfgas](../../cruft-ninja/feral-jupyter/blob/master/reading-list.ipynb)
-*****  
-  
-  
-  
 
 *****  
 ### nbviewer  
