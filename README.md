@@ -2,7 +2,7 @@
 [nbviewer](#nbviewer)  
 *****  
 *****  
-spacefillers required to test internal links
+spacefillers required to test internal linking
 *****  
 *****  
   
