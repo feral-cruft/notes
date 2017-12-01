@@ -1,41 +1,16 @@
 # notes  
+*****  
+[cli snippets](#cli-snippets)  
+*****  
 [nbviewer](#nbviewer)  
+*****   
+
 *****  
+### cli snippets  
 *****  
-spacefillers required to test internal linking
-*****  
-*****  
-  
-*****  
-*****  
-  
-*****  
-  
-*****  
-*****  
-  
-*****  
-*****  
-  
-*****  
-  
-*****  
-*****  
-  
-*****  
-*****  
-  
-*****  
-  
-*****  
-*****  
-  
-*****  
-*****  
-  
-*****  
-  
-*****  
+#### view Chromium Bookmarks in json format
+less ~/.config/google-chrome-beta/Default/Bookmarks  
+
 *****  
   
 *****  
