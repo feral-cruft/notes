@@ -1,5 +1,5 @@
-[badk](README.md)
+[back](README.md)  
 # cli snippets  
 *****  
-#### view Chromium Bookmarks in json format
+#### view Chromium Bookmarks in json format  
 less ~/.config/chromium/Default/Bookmarks  
